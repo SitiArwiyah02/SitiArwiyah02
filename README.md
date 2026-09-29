@@ -33,7 +33,7 @@
 | :--- | :--- | :--- |
 | 📁 **[web-fundamentals](https://github.com/SitiArwiyah02/web-fundamentals)** | HTML5, CSS layouting, and JavaScript basics | 🔄 In Progress |
 | 📁 **[code-playground](https://github.com/SitiArwiyah02/code-playground)** | Mini exercises, algorithms, and syntax notes | 🔄 In Progress |
-| 🚀 **Portfolio Project #1** | First interactive web application | ⏳ Upcoming |
+| 🌟 **[personal-portfolio](https://github.com/SitiArwiyah02/personal-portfolio)** | Official personal portfolio & showcase web | 🚀 Active |
 
 ---
 
