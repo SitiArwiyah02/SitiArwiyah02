@@ -1,13 +1,14 @@
 # Hi there, I'm Siti Arwiyah 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E64FE&center=true&vCenter=true&width=580&lines=Information+Systems+Student;MSIB+Studi+Independen+@+Stechoq;Finalis+P2MW+Kemendikbud;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E64FE&center=true&vCenter=true&width=620&lines=Information+Systems+Student;MSIB+Studi+Independen+@+Stechoq;Finalis+P2MW+Kemendikbud;Presenter+@+Program+ISST;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ### 👨‍💻 About Me
 - 🎓 Currently pursuing my degree in **Information Systems**.
 - 🏆 Alumna **MSIB Studi Independen @ PT Stechoq Robotika Indonesia** — Berhasil merancang & mengembangkan aplikasi **ALUS (Artificial Lungs Disease Detection)** bersama tim.
 - 🏅 **Finalis P2MW (Program Pembinaan Mahasiswa Wirausaha)** — Inovasi **ChiBoChi (Inovasi Limbah Tulang Ayam Menjadi Kerupuk Bernutrisi dan Tinggi Kalsium)**.
+- 🎤 **Presenter @ Program ISST** — Berpengalaman memaparkan hasil kajian riset & inovasi sains-teknologi di forum seminar ilmiah.
 - 🚀 On a journey to master **Web Development** and modern software engineering practices.
 - 📚 Currently learning: **HTML5, CSS3, JavaScript, and Web Fundamentals**.
 - 🎯 Goal for 2026: Build and deploy innovative full-stack & AI-driven web applications.
@@ -35,6 +36,7 @@
 | :--- | :--- | :--- |
 | 🫁 **ALUS (AI HealthTech)** | Artificial Lungs Disease Detection (MSIB Stechoq Team) | 🏆 Completed |
 | 🍗 **ChiBoChi (FoodTech)** | Inovasi Limbah Tulang Ayam Menjadi Kerupuk Bernutrisi | 🏅 Finalis P2MW |
+| 🎤 **Presenter @ ISST** | Diseminasi Riset & Presentasi Ilmiah Sains-Teknologi | 🏆 Completed |
 | 🌟 **[personal-portfolio](https://github.com/SitiArwiyah02/personal-portfolio)** | Official personal portfolio & showcase web | 🚀 Active |
 | 📁 **[web-fundamentals](https://github.com/SitiArwiyah02/web-fundamentals)** | HTML5, CSS layouting, and JavaScript basics | 🔄 In Progress |
 | 📁 **[code-playground](https://github.com/SitiArwiyah02/code-playground)** | Mini exercises, algorithms, and syntax notes | 🔄 In Progress |
